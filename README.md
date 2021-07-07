@@ -1,4 +1,4 @@
-I am Yip Fan or you can call me Aki. A year 2 sem 1 student that major in information technology.
+I am Yip Fan or you can call me Aki. A year 2 sem 1 student that study in information technology.
 Know fundamantal level of C, html/css/javascript
 Currently studying java, PHP, SQL, C#
 <!---
